@@ -59,8 +59,11 @@ int main()
 ### Resources for better understanding :
 
 [Append a char to the end of a string in C++](https://www.techiedelight.com/append-char-end-string-cpp/)
+
 [String Concatenation in C++: 4 Ways To Concatenate Strings](https://www.digitalocean.com/community/tutorials/string-concatenation-in-c-plus-plus)
+
 [Different Methods to Reverse a String in C++](https://www.geeksforgeeks.org/reverse-a-string-in-c-cpp-different-methods/)
+
 [std::string::clear in C++](https://www.geeksforgeeks.org/stdstringclear-in-cpp/)
 
 
